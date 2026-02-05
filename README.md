@@ -71,9 +71,9 @@ Rungta College of Engineering and Technology (2022 – Present)
 
 ## 📫 Connect With Me
 
-- <img src="https://img.icons8.com/color/48/gmail.png" width="20"/> Email: godamker.shrishti2722@gmail.com  
-- <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="20"/> GitHub: https://github.com/Shrishti-27G
-- <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> Linkedin: www.linkedin.com/in/shrishti-godamker-59b092262
+- 📧 Email: godamker.shrishti2722@gmail.com  
+- </> GitHub: https://github.com/Shrishti-27G
+- ℹ️ Linkedin: www.linkedin.com/in/shrishti-godamker-59b092262
 
 
 ---
