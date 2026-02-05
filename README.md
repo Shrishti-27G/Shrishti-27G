@@ -28,9 +28,7 @@ I’m a passionate developer who loves building modern, scalable, and user-frien
 
 ### ☁️ Tools & Others
 - Cloudinary
-- jsPDF
 - Git & GitHub
-- Razorpay
 - Socket.io
 
 ---
